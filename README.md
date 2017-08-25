@@ -1,2 +1,2 @@
-# SentimentAnlysysBot
-It will give you sentiment score of a sentence
+# AbhineetBot
+It will give you information about me
